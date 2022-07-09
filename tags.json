@@ -2,10 +2,10 @@
   "tags": [
     {
       "name": "release",
-      "version": "20220604212139",
-      "commit": "5775261",
+      "version": "20220709200953",
+      "commit": "e44f0a4",
       "upstream": "",
-      "lastUpdated": "2022-06-04T21:22:40.760Z"
+      "lastUpdated": "2022-07-09T20:14:18.986Z"
     },
     {
       "name": "testing",
